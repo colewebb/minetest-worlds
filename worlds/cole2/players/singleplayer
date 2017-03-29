@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = singleplayer
+pitch = -12.9
+position = (-895.5,207.68,590.45)
+version = 1
+yaw = 173.23
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stone
+Item default:glass 2
+Item default:torch 4
+Item default:ladder
+Item default:lava_source
+Item doors:door_steel
+Item default:sign_wall
+Item stairs:stair_cobble
+Item default:coal_lump 3
+Item default:obsidian
+Item default:river_water_source
+Item xpanes:pane
+Item default:jungletree
+Empty
+Item default:junglegrass
+Item fire:basic_flame
+Item wool:red
+Item default:cobble 99
+Item default:brick
+Item default:gravel
+Item default:dirt
+Item tnt:tnt
+Item default:dirt_with_grass
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 69
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
