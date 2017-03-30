@@ -1,38 +1,38 @@
 breath = 11
 hp = 20
 name = singleplayer
-pitch = 30.69
-position = (-883.31,175,563.31)
+pitch = -50.9
+position = (-1121.66,262.99,555.25)
 version = 1
-yaw = -173.99
+yaw = 249.8
 PlayerArgsEnd
 List main 32
 Width 0
-Item default:brick
-Item xpanes:pane
+Item default:stone
+Item default:glass 2
 Item default:torch 4
 Item default:ladder
 Item doors:door_glass
-Item fire:basic_flame
+Item default:lava_source
 Item default:sign_wall 2
 Item stairs:stair_cobble
 Item default:cobble 99
 Item default:obsidian
-Item default:lava_source
-Item default:glass 2
+Item fire:basic_flame
+Item xpanes:pane
 Item default:jungletree
 Item default:river_water_source
 Item default:junglegrass
 Item doors:trapdoor
 Item default:coal_lump 26
 Item stairs:stair_stone
-Item default:stone
+Item default:cobble 99
 Item default:gravel
 Item default:dirt 8
 Item wool:red
 Item default:dirt_with_grass
 Item default:cobble 99
-Item default:cobble 99
+Item default:brick
 Item default:cobble 10
 Item tnt:tnt
 Item doors:door_steel
