@@ -1,14 +1,14 @@
 breath = 11
 hp = 20
 name = singleplayer
-pitch = -49.4
-position = (-10,15,-10)
+pitch = 62.9
+position = (2296.17,343.46,9245.93)
 version = 1
-yaw = 103.57
+yaw = 81.41
 PlayerArgsEnd
 List main 32
 Width 0
-Item teleporter:teleporter_pad
+Item default:sand
 Empty
 Empty
 Empty
@@ -17,8 +17,8 @@ Empty
 Empty
 Empty
 Empty
-Empty
-Empty
+Item default:ice
+Item default:jungletree
 Empty
 Empty
 Empty

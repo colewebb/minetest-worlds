@@ -1,17 +1,17 @@
 breath = 11
 hp = 20
 name = singleplayer
-pitch = 27.67
-position = (-950,-110,610)
+pitch = 28.9
+position = (-1696.18,506.89,-35.57)
 version = 1
-yaw = -112.61
+yaw = 110.59
 PlayerArgsEnd
 List main 32
 Width 0
 Item default:ladder
-Item default:glass
-Item default:torch 4
-Item tnt:tnt
+Item default:glass 2
+Item default:stone
+Item fire:basic_flame
 Item travelpoints:receiver_pad
 Item travelpoints:transporter_pad
 Item travelpoints:pad_light
@@ -29,7 +29,7 @@ Item stairs:stair_stone
 Item default:cobble 99
 Item default:gravel
 Item default:dirt 8
-Item fire:basic_flame
+Item tnt:tnt
 Item default:dirt_with_grass
 Item default:cobble 99
 Item default:brick
@@ -38,7 +38,7 @@ Item doors:door_glass
 Item doors:door_steel
 Item stairs:stair_cobble
 Item default:sand
-Item default:stone
+Item default:torch 4
 Item default:lava_source
 EndInventoryList
 List craft 9
