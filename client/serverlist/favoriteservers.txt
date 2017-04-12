@@ -1,0 +1,18 @@
+[server]
+
+67.212.45.191
+30293
+
+
+[server]
+Just creative world
+hasanalsamra.tk
+30001
+WELCOME!!! (Under development, if the server shuteddown just relogin in 2 mins)
+
+[server]
+LS-Creative
+mt.rrhgameservers.ml
+48263
+longerstaff13's world
+

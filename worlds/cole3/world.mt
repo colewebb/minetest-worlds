@@ -17,3 +17,4 @@ load_mod_creative = false
 load_mod_intllib = true
 load_mod_stairs = false
 load_mod_tnt = false
+load_mod_inventory_plus = true

@@ -15,3 +15,4 @@ load_mod_worldedit_gui = true
 load_mod_worldedit_infinity = true
 load_mod_worldedit_limited = true
 load_mod_worldedit_shortcommands = true
+load_mod_inventory_plus = true
